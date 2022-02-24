@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mood-fart-machine/static/css/main.073c9b0a.css",
+    "main.js": "/mood-fart-machine/static/js/main.2e860ad1.js",
+    "static/js/787.5864499f.chunk.js": "/mood-fart-machine/static/js/787.5864499f.chunk.js",
+    "static/media/unknown.png": "/mood-fart-machine/static/media/unknown.74d18e86f74d4a327386.png",
+    "static/media/logo.svg": "/mood-fart-machine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mood-fart-machine/index.html",
+    "main.073c9b0a.css.map": "/mood-fart-machine/static/css/main.073c9b0a.css.map",
+    "main.2e860ad1.js.map": "/mood-fart-machine/static/js/main.2e860ad1.js.map",
+    "787.5864499f.chunk.js.map": "/mood-fart-machine/static/js/787.5864499f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2e860ad1.js"
+  ]
+}
